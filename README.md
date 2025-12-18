@@ -1,6 +1,6 @@
 # DSC_Resilience
 
-# R Simulation Script
+## R Simulation Script
 
 This repository contains an R script used to generate the simulation results and figures presented in the paper “On the Resilience of the End-to-End Digital Supply Chain.”
 
