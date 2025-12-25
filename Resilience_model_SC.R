@@ -1,3 +1,7 @@
+# ==================== Installing + importing needed libraries ====================
+install.packages("ggplot2")
+install.packages("plotly")
+
 library(ggplot2)
 library(plotly)
 N=1000 #  Number of simulations
