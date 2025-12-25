@@ -1,6 +1,6 @@
 # ==================== Installing + importing needed libraries ====================
-install.packages("ggplot2")
-install.packages("plotly")
+require("ggplot2")
+require("plotly")
 
 library(ggplot2)
 library(plotly)
