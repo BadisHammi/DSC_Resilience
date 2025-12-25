@@ -2,8 +2,6 @@
 require("ggplot2")
 require("plotly")
 
-library(ggplot2)
-library(plotly)
 N=1000 #  Number of simulations
 
 # ==================== Simulations of C with sum C = 1 ====================
